@@ -1,2 +1,3 @@
-# Skipper-s-Bot
-A discord bot mostly made by AI?!?!?
+# Skipper's Discord Bot.
+
+- [ ] I have no clue...
