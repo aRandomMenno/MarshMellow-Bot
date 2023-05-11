@@ -1,3 +1,7 @@
-# Skipper's Discord Bot.
+# aRMTDB Discord Bot.
 
-- [ ] I have no clue...
+- [ ] Fix cogs not loading. 
+- [ ] add ban and kick. 
+- [ ] add join / leave message's
+
+
