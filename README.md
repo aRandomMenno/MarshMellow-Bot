@@ -4,8 +4,8 @@
 - [ ] add ban and kick cmd's. 
 - [X] add nuke cmd.
 - [ ] add join / leave message's.
-- [ ] 
 
-# This bot was made for me to learn more python and discord.py.
+
+# I have no clue. 
 
 
