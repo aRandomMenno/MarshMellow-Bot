@@ -1,13 +1,7 @@
 # aRandomMenno's Discord Bot.
 
-- [X] Fix cogs not loading. 
-- [ ] add ban and kick cmd's. 
-- [X] add nuke cmd.
-- [ ] add join / leave message's.
+- [ ] Completely rewrite using discord.py docs and youtube. (and probably AI)
 
-- [ ] other things?
+## Your idea's
 
-
-# I have no clue. 
-
-
+- If you join my discord by clicking [here](https://discord.gg/vRpeAcKruF) you can make suggestions on how to improve the bot!
