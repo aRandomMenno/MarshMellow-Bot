@@ -1,4 +1,4 @@
-# aRandomMenno's Discord Bot.
+# The repository for my discord bot.
 
 - [ ] Completely rewrite using discord.py docs and youtube. (and probably AI)
 
