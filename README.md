@@ -4,4 +4,4 @@
 
 ## Your idea's
 
-- If you join my discord by clicking [here](https://discord.gg/vRpeAcKruF) you can make suggestions on how to improve the bot!
+- If you join my discord by clicking [here](https://discord.gg/vRpeAcKruF) you can make suggestions on how to improve the bot or create an issue!
